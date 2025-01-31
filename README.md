@@ -30,9 +30,9 @@ python caesar_cipher.py
 3. Click the "Encrypt" or "Decrypt" button to get the result.
 
 ## Images
-![Demo_image_1](Demo/Demo1.png)
-![Demo_image_2](Demo/Demo2.png)
-![Demo_image_3](Demo/Demo3.png)
+![Demo 1](Demo/Demo1.PNG)
+![Demo 2](Demo/Demo2.PNG)
+![Demo 3](Demo/Demo3.PNG)
 
 ## Contribution
 Feel free to contribute by submitting issues or pull requests.
