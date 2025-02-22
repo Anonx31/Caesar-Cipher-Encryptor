@@ -30,16 +30,16 @@ Key features of the project include:
 ## Installation
 To run the Caesar Cipher Encryptor, ensure you have Python installed on your system. You can install the required dependencies using:
 
-```bash
+bash
 pip install tkinter
-```
+
 
 ## Usage
 Run the script using the following command:
 
-```bash
+bash
 python caesar_cipher.py
-```
+
 
 1. Enter the text you want to encrypt or decrypt.
 2. Choose the shift value.
